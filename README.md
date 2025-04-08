@@ -1,1 +1,1 @@
-# Deep-Learning-Project
+# Potato Disease Classification Using CNN
